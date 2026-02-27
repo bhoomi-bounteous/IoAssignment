@@ -1,3 +1,15 @@
+/*
+2) Given a directory path , scan all files recursively.  (put some files in a directory in your system which are randomly created)
+       1. Count
+                Total files
+                Total Directories
+                Total File Size
+       2. List top 5 largest files 
+       3. Generate a report file report.txt
+   (Hint: Files.walk(), Files.size(), Path, Comparator.sorting)
+
+
+*/
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
