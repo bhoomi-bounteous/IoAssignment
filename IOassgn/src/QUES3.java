@@ -1,3 +1,10 @@
+/*
+3) In a directory, multiple duplicate files may exist.
+      1. Detect duplicate files based on :
+             Same file size
+             Same content(Byte Comparison)
+
+*/
 import java.io.IOException;
 import java.io.InputStream;
 import java.nio.file.Files;
