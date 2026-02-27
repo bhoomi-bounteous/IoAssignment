@@ -1,3 +1,15 @@
+/*
+1) you are given a large application log file (application.log) (Files should be generated first for it)
+Using path and files API :
+     count total number of INFO, WARN, ERROR
+     Extract all errors lines into a new file : error.log
+     Generate  a summary file summary.txt like below 
+              INFO = 120
+              WARN = 15
+              ERROR = 8
+
+*/
+
 import java.io.IOException;
 import java.net.URI;
 import java.nio.charset.StandardCharsets;
