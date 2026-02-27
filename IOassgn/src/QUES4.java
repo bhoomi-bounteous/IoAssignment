@@ -1,3 +1,14 @@
+/*
+4) Given a CSV file:
+         id, name, salary
+          1, Alice, 50000
+          2, Bob, 70000
+          3, Charlie, 40000
+   
+   Calculate average salary, highest salary employee
+
+   Create new file processed.csv with 10% salary increment   
+*/
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
