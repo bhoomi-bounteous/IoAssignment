@@ -1,0 +1,12 @@
+2026-02-26 10:00:00 INFO Application started
+2026-02-26 10:01:12 INFO User john logged in
+2026-02-26 10:01:45 WARN Disk space low
+2026-02-26 10:02:30 ERROR Database connection failed
+2026-02-26 10:03:00 INFO Processing request /api/data
+2026-02-26 10:03:12 WARN High memory usage detected
+2026-02-26 10:03:45 ERROR Null pointer exception in UserService
+2026-02-26 10:04:10 INFO Request completed successfully
+2026-02-26 10:05:00 INFO User jane logged out
+2026-02-26 10:05:30 ERROR Failed to send email notification
+2026-02-26 10:06:00 INFO Application shutdown initiated
+2026-02-26 10:06:30 INFO Application stopped
